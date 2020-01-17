@@ -1,0 +1,101 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-07-pandas-dataframes-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a273a43d731f44705ae4116a1c1522ad39a1a9d32d142d4e
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=a273a43d731f44705ae4116a1c1522ad39a1a9d32d142d4e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-3908-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a273a43d731f44705ae4116a1c1522ad39a1a9d32d142d4e
+     or http://127.0.0.1:8888/?token=a273a43d731f44705ae4116a1c1522ad39a1a9d32d142d4e
+[NotebookApp | WARNING] Notebook ea-bootcamp-07-pandas-dataframes.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (127.0.0.1) 34.57ms
+[NotebookApp | INFO] Kernel started: 38f8ab9c-9d92-48be-8927-169d9a4297d6
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Starting buffering for 38f8ab9c-9d92-48be-8927-169d9a4297d6:d1aef53a6a174241b8175ce230d161b7
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 38f8ab9c-9d92-48be-8927-169d9a4297d6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-07-pandas-dataframes-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=8b84b2b02f497e0448e98a5ca24085c978202a63815d4930
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=8b84b2b02f497e0448e98a5ca24085c978202a63815d4930
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-6532-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8b84b2b02f497e0448e98a5ca24085c978202a63815d4930
+     or http://127.0.0.1:8888/?token=8b84b2b02f497e0448e98a5ca24085c978202a63815d4930
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-07-pandas-dataframes-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ab0ab3363f78b765068b4d4dae115e2a08c5e56ced8b91d0
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=ab0ab3363f78b765068b4d4dae115e2a08c5e56ced8b91d0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-2272-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ab0ab3363f78b765068b4d4dae115e2a08c5e56ced8b91d0
+     or http://127.0.0.1:8888/?token=ab0ab3363f78b765068b4d4dae115e2a08c5e56ced8b91d0
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 4.99ms
+[NotebookApp | INFO] Kernel started: 9e659854-8412-441f-b3bd-faa46532ddc0
+[NotebookApp | INFO] Starting buffering for 9e659854-8412-441f-b3bd-faa46532ddc0:964fcd1a78e84c6a8192ef13ad832262
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9e659854-8412-441f-b3bd-faa46532ddc0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-07-pandas-dataframes-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4a00ffc70f42200bcc6c4fa9fd0b4ea8602af27cd0db0271
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=4a00ffc70f42200bcc6c4fa9fd0b4ea8602af27cd0db0271
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-11608-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4a00ffc70f42200bcc6c4fa9fd0b4ea8602af27cd0db0271
+     or http://127.0.0.1:8888/?token=4a00ffc70f42200bcc6c4fa9fd0b4ea8602af27cd0db0271
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 15.62ms
+[NotebookApp | INFO] Kernel started: 911e0460-4e7e-46f1-ba07-7121f8c59798
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-07-pandas-dataframes.ipynb
+[NotebookApp | INFO] Starting buffering for 911e0460-4e7e-46f1-ba07-7121f8c59798:d1941a3435fb4f0ba4481e2f57b0e37d
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 911e0460-4e7e-46f1-ba07-7121f8c59798

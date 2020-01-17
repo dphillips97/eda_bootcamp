@@ -1,0 +1,43 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-10-conditionals-loops-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ba0a66c60bdf2ea8543abc384de6d0aff8a0463a0e4025d9
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=ba0a66c60bdf2ea8543abc384de6d0aff8a0463a0e4025d9
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-13176-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ba0a66c60bdf2ea8543abc384de6d0aff8a0463a0e4025d9
+     or http://127.0.0.1:8888/?token=ba0a66c60bdf2ea8543abc384de6d0aff8a0463a0e4025d9
+[NotebookApp | WARNING] Notebook ea-bootcamp-10-conditionals-loops.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 2.77ms
+[NotebookApp | INFO] Kernel started: 97eb260a-e0e9-4406-9708-ca6b0218c14e
+[NotebookApp | INFO] Saving file at /ea-bootcamp-10-conditionals-loops.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-10-conditionals-loops.ipynb
+[NotebookApp | INFO] Starting buffering for 97eb260a-e0e9-4406-9708-ca6b0218c14e:ffcf178fd4314c138c84b246f6d4e124
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-10-conditionals-loops-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=61dd6729e931ecbc0254f5ee4feb912c9131ae47f388859d
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=61dd6729e931ecbc0254f5ee4feb912c9131ae47f388859d
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-7124-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=61dd6729e931ecbc0254f5ee4feb912c9131ae47f388859d
+     or http://127.0.0.1:8888/?token=61dd6729e931ecbc0254f5ee4feb912c9131ae47f388859d
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (127.0.0.1) 2.06ms
+[NotebookApp | INFO] Kernel started: 9bb1337f-f62c-4b26-bc70-efe82d0a7c06
+[NotebookApp | INFO] Saving file at /ea-bootcamp-10-conditionals-loops.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-10-conditionals-loops.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-10-conditionals-loops.ipynb
+[NotebookApp | INFO] Starting buffering for 9bb1337f-f62c-4b26-bc70-efe82d0a7c06:27b3a7f2fd3f4d3887c931fdd95667dd
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9bb1337f-f62c-4b26-bc70-efe82d0a7c06

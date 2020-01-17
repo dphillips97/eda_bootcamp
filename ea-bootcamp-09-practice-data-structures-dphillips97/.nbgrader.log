@@ -1,0 +1,265 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c13d5206c2534a5b4adc27e01e120be7e91762e7d15f0524
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=c13d5206c2534a5b4adc27e01e120be7e91762e7d15f0524
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-3696-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c13d5206c2534a5b4adc27e01e120be7e91762e7d15f0524
+     or http://127.0.0.1:8888/?token=c13d5206c2534a5b4adc27e01e120be7e91762e7d15f0524
+[NotebookApp | WARNING] Notebook ea-bootcamp-09-practice-data-structures.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 31.24ms
+[NotebookApp | INFO] Kernel started: 7fb78d91-5973-4db1-b2cc-b6622dcb0fce
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 7fb78d91-5973-4db1-b2cc-b6622dcb0fce:1569527319e84170951f621bf3f34dda
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a2939dee902b6d3644f8c1259c1b41c0bf91a6be7a3eb639
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=a2939dee902b6d3644f8c1259c1b41c0bf91a6be7a3eb639
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-10512-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a2939dee902b6d3644f8c1259c1b41c0bf91a6be7a3eb639
+     or http://127.0.0.1:8888/?token=a2939dee902b6d3644f8c1259c1b41c0bf91a6be7a3eb639
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 2.00ms
+[NotebookApp | INFO] Kernel started: d9a05cb8-ab2a-42d2-8d24-5521721e00a4
+[NotebookApp | INFO] Starting buffering for d9a05cb8-ab2a-42d2-8d24-5521721e00a4:7cb51a1539364d248b39927b02e3baf6
+[NotebookApp | INFO] Kernel restarted: d9a05cb8-ab2a-42d2-8d24-5521721e00a4
+[NotebookApp | INFO] Restoring connection for d9a05cb8-ab2a-42d2-8d24-5521721e00a4:7cb51a1539364d248b39927b02e3baf6
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for d9a05cb8-ab2a-42d2-8d24-5521721e00a4:7cb51a1539364d248b39927b02e3baf6
+[NotebookApp | INFO] Kernel restarted: d9a05cb8-ab2a-42d2-8d24-5521721e00a4
+[NotebookApp | INFO] Restoring connection for d9a05cb8-ab2a-42d2-8d24-5521721e00a4:7cb51a1539364d248b39927b02e3baf6
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for d9a05cb8-ab2a-42d2-8d24-5521721e00a4:7cb51a1539364d248b39927b02e3baf6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=3d71a78f2288cd7d7a054fe91ce1413d28a01ccc9f4f2f68
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=3d71a78f2288cd7d7a054fe91ce1413d28a01ccc9f4f2f68
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-7676-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3d71a78f2288cd7d7a054fe91ce1413d28a01ccc9f4f2f68
+     or http://127.0.0.1:8888/?token=3d71a78f2288cd7d7a054fe91ce1413d28a01ccc9f4f2f68
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=cddaad22c20e7f16536ee831a6355a8d6cc851d51588f577
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=cddaad22c20e7f16536ee831a6355a8d6cc851d51588f577
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-8260-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=cddaad22c20e7f16536ee831a6355a8d6cc851d51588f577
+     or http://127.0.0.1:8888/?token=cddaad22c20e7f16536ee831a6355a8d6cc851d51588f577
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 6.79ms
+[NotebookApp | INFO] Kernel started: c6994058-74e2-4170-9558-51e3d3219935
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Kernel restarted: c6994058-74e2-4170-9558-51e3d3219935
+[NotebookApp | INFO] Restoring connection for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Kernel restarted: c6994058-74e2-4170-9558-51e3d3219935
+[NotebookApp | INFO] Restoring connection for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Kernel restarted: c6994058-74e2-4170-9558-51e3d3219935
+[NotebookApp | INFO] Restoring connection for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for c6994058-74e2-4170-9558-51e3d3219935:10aae54b7fc24bb2893d82f4e721f165
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c6994058-74e2-4170-9558-51e3d3219935
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=dcab05ad1202a28896d4ad6f8724a6f996f7da19a364c7da
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=dcab05ad1202a28896d4ad6f8724a6f996f7da19a364c7da
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-7188-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=dcab05ad1202a28896d4ad6f8724a6f996f7da19a364c7da
+     or http://127.0.0.1:8888/?token=dcab05ad1202a28896d4ad6f8724a6f996f7da19a364c7da
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 109.36ms
+[NotebookApp | INFO] Kernel started: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Kernel restarted: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | INFO] Restoring connection for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Kernel restarted: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | INFO] Restoring connection for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Kernel restarted: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | INFO] Restoring connection for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Kernel restarted: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | INFO] Restoring connection for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Saving file at /ea-bootcamp-09-practice-data-structures.ipynb
+[NotebookApp | INFO] Starting buffering for 10f61f5b-2ae5-4472-8bf3-d33e9395faa5:dff23d671ab9494a8adc317272788692
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 10f61f5b-2ae5-4472-8bf3-d33e9395faa5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\dphil\earth-analytics\ea-bootcamp-09-practice-data-structures-dphillips97
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=9dc8dba14e875dade7deead8be24307e8ac1f6396456946f
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=9dc8dba14e875dade7deead8be24307e8ac1f6396456946f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/dphil/AppData/Roaming/jupyter/runtime/nbserver-6180-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9dc8dba14e875dade7deead8be24307e8ac1f6396456946f
+     or http://127.0.0.1:8888/?token=9dc8dba14e875dade7deead8be24307e8ac1f6396456946f
+[NotebookApp | INFO] 302 GET /notebooks/earth-lab-logo-rgb.png (::1) 15.62ms
+[NotebookApp | INFO] Kernel started: 0efec89e-00a3-4f44-8ddf-f9f413232e6d
+[NotebookApp | INFO] Starting buffering for 0efec89e-00a3-4f44-8ddf-f9f413232e6d:f10c732bd3764420a50c1caed37b232c
